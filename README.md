@@ -19,7 +19,7 @@ Use viewer log data (time spent, genres watched, binge frequency) to analyze bin
 
 **Time Series Analysis:** `Time Series Analysis (binge trends over weeks/months)`
 
-**Dashboards:** Power BI
+**Dashboards:** `Power BI`
 
 
 ## Data Information
